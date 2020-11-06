@@ -2,7 +2,7 @@
 
 import os
 
-API_TOKEN = os.environ['API_TOKEN']
+API_TOKEN = os.environ['BOT_TOKEN_INTERCOM']
 
 DEFALLT_REPLY = 'すみません、よくわかりません。'
 
